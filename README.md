@@ -9,10 +9,12 @@ The platform leverages **AI-based resume parsing** to automate candidate screeni
 The solution consists of two integrated applications:
 
 ### 🏢 HRMS Portal (Internal Application)
+Access Link - https://personal-bjoeimiy-dev.outsystems.app/HRMS_APP/JobPostings
 
 Used by HR teams, recruiters, interviewers, account managers, and employees to manage recruitment, onboarding, and workforce processes.
 
 ### 🌐 Jobs Portal (Public Application)
+Access Link - https://personal-bjoeimiy-dev.outsystems.app/JOBS/JobPostings
 
 A public recruitment portal where candidates can browse jobs, submit applications, upload resumes, and complete onboarding activities.
 
