@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 
-The **AI-Powered HRMS & Recruitment Platform** is an enterprise recruitment and employee onboarding solution developed using **OutSystems ODC**.
+The **AI-Powered HRMS & Recruitment Platform** is an enterprise recruitment and employee onboarding solution developed using **OutSystems ODC & O11**.
 
 The platform leverages **AI-based resume parsing** to automate candidate screening and profile creation, significantly reducing manual recruitment effort. It manages the complete employee lifecycle—from hiring requests and candidate applications to onboarding, employee creation, and workforce access management.
 
